@@ -1,4 +1,4 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
+
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:security="http://www.springframework.org/schema/security" elementFormDefault="qualified" targetNamespace="http://www.springframework.org/schema/security">
 <xs:attributeGroup name="hash">
 <xs:attribute name="hash" use="required">
